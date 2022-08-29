@@ -1,0 +1,9 @@
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\bin\Debug\netcoreapp3.1\display.deps.json
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\bin\Debug\netcoreapp3.1\display.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\bin\Debug\netcoreapp3.1\display.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.AssemblyInfoInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.AssemblyInfo.cs
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.csproj.CoreCompileInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\display\obj\Debug\netcoreapp3.1\display.pdb

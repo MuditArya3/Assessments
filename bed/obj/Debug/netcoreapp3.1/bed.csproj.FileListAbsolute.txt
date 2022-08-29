@@ -1,0 +1,13 @@
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\bin\Debug\netcoreapp3.1\bed.deps.json
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\bin\Debug\netcoreapp3.1\bed.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\bin\Debug\netcoreapp3.1\bed.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.csproj.AssemblyReference.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.AssemblyInfoInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.AssemblyInfo.cs
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.csproj.CoreCompileInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\bin\Debug\netcoreapp3.1\display.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\bin\Debug\netcoreapp3.1\display.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\bed\obj\Debug\netcoreapp3.1\bed.csproj.CopyComplete

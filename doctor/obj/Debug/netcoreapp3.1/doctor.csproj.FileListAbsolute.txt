@@ -1,0 +1,13 @@
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\bin\Debug\netcoreapp3.1\doctor.deps.json
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\bin\Debug\netcoreapp3.1\doctor.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\bin\Debug\netcoreapp3.1\doctor.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.csproj.AssemblyReference.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.AssemblyInfoInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.AssemblyInfo.cs
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.csproj.CoreCompileInputs.cache
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\bin\Debug\netcoreapp3.1\display.dll
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\bin\Debug\netcoreapp3.1\display.pdb
+C:\Users\Mudit.Arya\source\repos\ASSESSMENT-4\doctor\obj\Debug\netcoreapp3.1\doctor.csproj.CopyComplete
